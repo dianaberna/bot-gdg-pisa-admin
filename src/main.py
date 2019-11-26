@@ -7,7 +7,7 @@ from telegram.ext import Updater
 from telegram.ext import CommandHandler, MessageHandler
 from telegram.ext import Filters 
 
-API_TOKEN = "1050680359:AAGtmXnLlyPXNU_dtnXcyHiQzSylq_JZnb4"
+API_TOKEN = ""
 USERNAMES_FILE = "usernames.json"
 
 def start(update, context):
