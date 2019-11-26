@@ -1,0 +1,3 @@
+src/*.pyc
+venv/
+.DS_Store

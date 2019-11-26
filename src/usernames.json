@@ -1,0 +1,32 @@
+{
+	"TeamCoordinazione": [
+		"kiaruzza",
+		"DianaBerna"
+	],
+	"TeamEventi": [
+		"gi0bart",
+		"LeonardoDipilato"
+	],
+	"TeamRelazioni":[
+		"kiaruzza",
+		"DianaBerna",
+		"gi0bart"
+	],
+	"TeamSocial":[
+		"gi0bart",
+	],
+	"TeamGrafiche": [
+		"Gabryon",
+		"LeonardoDipilato",
+		"gammax"
+	],
+
+	"All": [
+		"kiaruzza",
+		"DianaBerna",
+		"gi0bart",
+		"LeonardoDipilato",
+		"Gabryon",
+		"gammax"
+	]
+}
